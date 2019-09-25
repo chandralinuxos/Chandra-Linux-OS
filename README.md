@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome To The Official Website For The Chandra Linux Operating System
 
-You can use the [editor on GitHub](https://github.com/chandralinuxos/Chandra-Linux-OS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Chandra Linux, current V.1.0, is a, free, stylish operating system based on Ubuntu .
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
