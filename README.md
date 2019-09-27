@@ -13,7 +13,3 @@ Download Chandra Linux V.1 Sekhar .
 During installation, <b><span style="color:red">do not choose to install updates</span></b>, and <b><span style="color:red">do not choose to connect to the internet</span></b>. Uncheck the options during installation.
 <b><span style="color:red">Not following the above two points will make the installer crash</span></b>.
 
-##Privacy and Privacy Policy
----
-
-Although Linux based operating systems generally tend to have strong security measures, but that doesn't mean that they are completely immune to evry kind of existing security threats. Some of the packages used in Chandra Linux, are provieded by third party sources, and it is advisable that the user 
