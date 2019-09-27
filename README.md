@@ -7,7 +7,7 @@ The OS comes preinstalled, with many software applications and features, such as
 
 Download Chandra Linux V.1 Sekhar
 
-<h2 style="color:red">Important</h1>
+<h2 style="color:red">Important</h2>
 ---
 
 During installation, <p><b><span style="color:blue">do not choose to install updates</span></b></p>, and **Do not choose to connect to the internet**, uncheck to options.
