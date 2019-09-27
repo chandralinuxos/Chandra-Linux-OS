@@ -13,3 +13,6 @@ Download Chandra Linux V.1 Sekhar .
 During installation, <b><span style="color:red">do not choose to install updates</span></b>, and <b><span style="color:red">do not choose to connect to the internet</span></b>. Uncheck the options during installation.
 <b><span style="color:red">Not following the above two points will make the installer crash</span></b>.
 
+## Support And Bug Report
+---
+[Chandra Linux OS Forum](http://chandralinuxos.freeforums.net/)
