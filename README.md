@@ -1,7 +1,7 @@
 ## Welcome To The Official Website, For The Chandra Linux Operating System
 ---
 
-Chandra Linux, is a free, stylish, operating system, based on Ubuntu . 
+Chandra Linux is a free, stylish, operating system, based on Ubuntu . 
 
 The OS comes preinstalled with many software applications, aimed at a better user-experience. It also uses a video login profile (customizable), which is much more expressive, than the generally used picture login profile .
 
