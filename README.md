@@ -16,3 +16,5 @@ During installation, <b><span style="color:red">do not choose to install updates
 ## Support And Bug Report
 ---
 [Chandra Linux OS Forum](http://chandralinuxos.freeforums.net/)
+
+Chandra Linux V.1 Sekhar is made by Subhaditya Banerji
